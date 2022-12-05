@@ -1,0 +1,4 @@
+- 🫰🏻 Hi, I’m @SerraAksoy
+- 🫶🏻 I’m interested in AI and Mobile App Development
+- 🫡 I’m currently learning Go
+- 📫 aksoyserra158@gmail.com
