@@ -1,4 +1,4 @@
 - 🫰🏻 Hi, I’m @SerraAksoy
-- 🫶🏻 I’m interested in AI and Mobile App Development
-- 🫡 I’m currently learning Go
+- 🫶🏻 I’m interested in Web and Mobile App Development
+- 🫡 I’m currently learning Swift
 - 📫 aksoyserra158@gmail.com
